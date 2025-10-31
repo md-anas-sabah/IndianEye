@@ -32,7 +32,10 @@ export const Form = () => {
                 Registered Office
               </div>
               <div className="flex items-start gap-2">
-                <MapPin size={50} className="text-white -mt-3 hidden md:block" />
+                <MapPin
+                  size={50}
+                  className="text-white -mt-3 hidden md:block"
+                />
                 <span className="font-inter font-normal text-base leading-6 text-white">
                   2, Panchsheel Community Center, New Delhi- 110017, India
                 </span>
@@ -43,7 +46,10 @@ export const Form = () => {
                 Corporate Office
               </div>
               <div className="flex items-start gap-2">
-                <MapPin size={50} className="text-white -mt-3 hidden md:block" />
+                <MapPin
+                  size={50}
+                  className="text-white -mt-3 hidden md:block"
+                />
                 <span className="font-inter font-normal text-base leading-6 text-white">
                   1706/17th Floor, Logix City Center, Plot.no- BW-58, Noida
                   Uttar Pradesh- 201301, India
@@ -122,7 +128,7 @@ export const Form = () => {
             </div>
             <button
               type="submit"
-              className="bg-[#EA580C] mb-3  text-white rounded-full py-2.5 px-10 font-(family-name:--font-albert-sans) font-semibold text-[19px] leading-[100%] flex items-center justify-center gap-2 mt-2 hover:opacity-90 transition-all duration-300 ease-out mx-auto w-fit"
+              className="bg-[#EA580C] mb-3 cursor-pointer  text-white rounded-full py-2.5 px-10 font-(family-name:--font-albert-sans) font-semibold text-[19px] leading-[100%] flex items-center justify-center gap-2 mt-2 hover:opacity-90 transition-all duration-300 ease-out mx-auto w-fit"
             >
               Submit Now <ArrowRight size={22} />
             </button>
