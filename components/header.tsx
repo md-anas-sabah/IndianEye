@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { ChevronDown, Phone } from "lucide-react";
+import { ChevronDown } from "lucide-react";
 import { IoIosCall } from "react-icons/io";
 
 const Header = () => {
@@ -19,7 +19,7 @@ const Header = () => {
         </Link>
 
         {/* Navigation */}
-        <nav className="flex items-center gap-8">
+        <nav className="flex items-center gap-5">
           <Link
             href="/home"
             className="font-(family-name:--font-albert-sans) text-white text-[19px] font-normal leading-[100%] tracking-[0%] align-middle no-underline"
