@@ -1,7 +1,7 @@
 # Node.js dependencies
 node_modules/
 
-next/
+.next/
 # npm debug logs
 npm-debug.log*
 
