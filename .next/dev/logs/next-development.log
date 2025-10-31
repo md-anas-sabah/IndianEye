@@ -1,0 +1,955 @@
+[00:00:01.997] Server  LOG      ✓ Ready in 1821ms
+[00:00:04.353] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.459] Browser WARN    Image with src "http://localhost:3000/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:25.279] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:48.401] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:01:15.585] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:01:15.651] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:15.651] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:01:24.371] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/logo.png" "received" null
+[00:01:37.615] Browser WARN    Image with src "/landing/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:03:28.402] Browser ERROR   ./components/header.tsx:15:11
+Parsing ecmascript source code failed
+  13 |           alt="Logo"
+  14 |           width={}
+> 15 |           height={60}
+     |           ^^^^^^
+  16 |           className="ml-2.5 mr-[50px]"
+  17 |         />
+  18 |
+
+Expected '</', got 'height'
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+[00:06:34.783] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:34.891] Browser WARN    Image with src "/landing/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:06:34.891] Browser WARN    Image with src "/landing/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:07:23.634] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:23.736] Browser WARN    Image with src "/landing/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:07:23.736] Browser WARN    Image with src "/landing/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:07:27.354] Server  LOG      ✓ Compiled in 149ms
+[00:07:36.818] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:36.923] Browser WARN    Image with src "/landing/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:07:36.923] Browser WARN    Image with src "/landing/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:07:38.517] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:38.619] Browser WARN    Image with src "/landing/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:07:38.619] Browser WARN    Image with src "/landing/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:07:39.315] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:39.418] Browser WARN    Image with src "/landing/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:07:39.418] Browser WARN    Image with src "/landing/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:09:04.147] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:04.249] Browser WARN    Image with src "/landing/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:09:04.249] Browser WARN    Image with src "/landing/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:09:52.596] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:52.699] Browser WARN    Image with src "/landing/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:09:52.699] Browser WARN    Image with src "/landing/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:16.969] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:17.072] Browser WARN    Image with src "/landing/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:11:17.072] Browser WARN    Image with src "/landing/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:30.981] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:31.084] Browser WARN    Image with src "/landing/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:11:31.084] Browser WARN    Image with src "/landing/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:27.452] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:27.452] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:27.453] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:27.453] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:27.454] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:27.454] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:27.455] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:27.455] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:27.455] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:27.456] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:27.456] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:27.456] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:27.456] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:27.458] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:28.401] Browser ERROR   ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:45.401] Browser ERROR   ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:46.347] Server  ERROR    ⨯ ./node_modules/react-icons/io/index.js:2:15
+Module not found: Can't resolve '../lib'
+  1 | // THIS FILE IS AUTO GENERATED
+> 2 | var GenIcon = require('../lib').GenIcon
+    |               ^^^^^^^^^^^^^^^^^
+  3 | module.exports.IoIosAddCircleOutline = function IoIosAddCircleOutline (props) {
+  4 |   return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 512 512"},"child":[{"tag":"path","attr":{"d":"M346.5 240H272v-74.5c0-8.8-7.2-16-16-16s-16 7.2-16 16V240h-74.5c-8.8 0-16 6-16 16s7.5 16 16 16H240v74.5c0 9.5 7 16 16 16s16-7.2 16-16V272h74.5c8.8 0 16-7.2 16-16s-7.2-16-16-16z"},"child":[]},{"tag":"path","attr":{"d":"M256 76c48.1 0 93.3 18.7 127.3 52.7S436 207.9 436 256s-18.7 93.3-52.7 127.3S304.1 436 256 436c-48.1 0-93.3-18.7-127.3-52.7S76 304.1 76 256s18.7-93.3 52.7-127.3S207.9 76 256 76m0-28C141.1 48 48 141.1 48 256s93.1 208 208 208 208-93.1 208-208S370.9 48 256 48z"},"child":[]}]})(props);
+  5 | };
+
+
+
+Import trace:
+  Server Component:
+    ./node_modules/react-icons/io/index.js
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.362] Server  ERROR    ⨯ ./node_modules/react-icons/io/index.js:2:15
+Module not found: Can't resolve '../lib'
+  1 | // THIS FILE IS AUTO GENERATED
+> 2 | var GenIcon = require('../lib').GenIcon
+    |               ^^^^^^^^^^^^^^^^^
+  3 | module.exports.IoIosAddCircleOutline = function IoIosAddCircleOutline (props) {
+  4 |   return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 512 512"},"child":[{"tag":"path","attr":{"d":"M346.5 240H272v-74.5c0-8.8-7.2-16-16-16s-16 7.2-16 16V240h-74.5c-8.8 0-16 6-16 16s7.5 16 16 16H240v74.5c0 9.5 7 16 16 16s16-7.2 16-16V272h74.5c8.8 0 16-7.2 16-16s-7.2-16-16-16z"},"child":[]},{"tag":"path","attr":{"d":"M256 76c48.1 0 93.3 18.7 127.3 52.7S436 207.9 436 256s-18.7 93.3-52.7 127.3S304.1 436 256 436c-48.1 0-93.3-18.7-127.3-52.7S76 304.1 76 256s18.7-93.3 52.7-127.3S207.9 76 256 76m0-28C141.1 48 48 141.1 48 256s93.1 208 208 208 208-93.1 208-208S370.9 48 256 48z"},"child":[]}]})(props);
+  5 | };
+
+
+
+Import trace:
+  Server Component:
+    ./node_modules/react-icons/io/index.js
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.381] Server  ERROR    ⨯ ./node_modules/react-icons/io/index.js:2:15
+Module not found: Can't resolve '../lib'
+  1 | // THIS FILE IS AUTO GENERATED
+> 2 | var GenIcon = require('../lib').GenIcon
+    |               ^^^^^^^^^^^^^^^^^
+  3 | module.exports.IoIosAddCircleOutline = function IoIosAddCircleOutline (props) {
+  4 |   return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 512 512"},"child":[{"tag":"path","attr":{"d":"M346.5 240H272v-74.5c0-8.8-7.2-16-16-16s-16 7.2-16 16V240h-74.5c-8.8 0-16 6-16 16s7.5 16 16 16H240v74.5c0 9.5 7 16 16 16s16-7.2 16-16V272h74.5c8.8 0 16-7.2 16-16s-7.2-16-16-16z"},"child":[]},{"tag":"path","attr":{"d":"M256 76c48.1 0 93.3 18.7 127.3 52.7S436 207.9 436 256s-18.7 93.3-52.7 127.3S304.1 436 256 436c-48.1 0-93.3-18.7-127.3-52.7S76 304.1 76 256s18.7-93.3 52.7-127.3S207.9 76 256 76m0-28C141.1 48 48 141.1 48 256s93.1 208 208 208 208-93.1 208-208S370.9 48 256 48z"},"child":[]}]})(props);
+  5 | };
+
+
+
+Import trace:
+  Server Component:
+    ./node_modules/react-icons/io/index.js
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.396] Server  ERROR    ⨯ ./node_modules/react-icons/io/index.js:2:15
+Module not found: Can't resolve '../lib'
+  1 | // THIS FILE IS AUTO GENERATED
+> 2 | var GenIcon = require('../lib').GenIcon
+    |               ^^^^^^^^^^^^^^^^^
+  3 | module.exports.IoIosAddCircleOutline = function IoIosAddCircleOutline (props) {
+  4 |   return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 512 512"},"child":[{"tag":"path","attr":{"d":"M346.5 240H272v-74.5c0-8.8-7.2-16-16-16s-16 7.2-16 16V240h-74.5c-8.8 0-16 6-16 16s7.5 16 16 16H240v74.5c0 9.5 7 16 16 16s16-7.2 16-16V272h74.5c8.8 0 16-7.2 16-16s-7.2-16-16-16z"},"child":[]},{"tag":"path","attr":{"d":"M256 76c48.1 0 93.3 18.7 127.3 52.7S436 207.9 436 256s-18.7 93.3-52.7 127.3S304.1 436 256 436c-48.1 0-93.3-18.7-127.3-52.7S76 304.1 76 256s18.7-93.3 52.7-127.3S207.9 76 256 76m0-28C141.1 48 48 141.1 48 256s93.1 208 208 208 208-93.1 208-208S370.9 48 256 48z"},"child":[]}]})(props);
+  5 | };
+
+
+
+Import trace:
+  Server Component:
+    ./node_modules/react-icons/io/index.js
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.411] Server  ERROR    ⨯ ./node_modules/react-icons/io/index.js:2:15
+Module not found: Can't resolve '../lib'
+  1 | // THIS FILE IS AUTO GENERATED
+> 2 | var GenIcon = require('../lib').GenIcon
+    |               ^^^^^^^^^^^^^^^^^
+  3 | module.exports.IoIosAddCircleOutline = function IoIosAddCircleOutline (props) {
+  4 |   return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 512 512"},"child":[{"tag":"path","attr":{"d":"M346.5 240H272v-74.5c0-8.8-7.2-16-16-16s-16 7.2-16 16V240h-74.5c-8.8 0-16 6-16 16s7.5 16 16 16H240v74.5c0 9.5 7 16 16 16s16-7.2 16-16V272h74.5c8.8 0 16-7.2 16-16s-7.2-16-16-16z"},"child":[]},{"tag":"path","attr":{"d":"M256 76c48.1 0 93.3 18.7 127.3 52.7S436 207.9 436 256s-18.7 93.3-52.7 127.3S304.1 436 256 436c-48.1 0-93.3-18.7-127.3-52.7S76 304.1 76 256s18.7-93.3 52.7-127.3S207.9 76 256 76m0-28C141.1 48 48 141.1 48 256s93.1 208 208 208 208-93.1 208-208S370.9 48 256 48z"},"child":[]}]})(props);
+  5 | };
+
+
+
+Import trace:
+  Server Component:
+    ./node_modules/react-icons/io/index.js
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.426] Server  ERROR    ⨯ ./node_modules/react-icons/io/index.js:2:15
+Module not found: Can't resolve '../lib'
+  1 | // THIS FILE IS AUTO GENERATED
+> 2 | var GenIcon = require('../lib').GenIcon
+    |               ^^^^^^^^^^^^^^^^^
+  3 | module.exports.IoIosAddCircleOutline = function IoIosAddCircleOutline (props) {
+  4 |   return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 512 512"},"child":[{"tag":"path","attr":{"d":"M346.5 240H272v-74.5c0-8.8-7.2-16-16-16s-16 7.2-16 16V240h-74.5c-8.8 0-16 6-16 16s7.5 16 16 16H240v74.5c0 9.5 7 16 16 16s16-7.2 16-16V272h74.5c8.8 0 16-7.2 16-16s-7.2-16-16-16z"},"child":[]},{"tag":"path","attr":{"d":"M256 76c48.1 0 93.3 18.7 127.3 52.7S436 207.9 436 256s-18.7 93.3-52.7 127.3S304.1 436 256 436c-48.1 0-93.3-18.7-127.3-52.7S76 304.1 76 256s18.7-93.3 52.7-127.3S207.9 76 256 76m0-28C141.1 48 48 141.1 48 256s93.1 208 208 208 208-93.1 208-208S370.9 48 256 48z"},"child":[]}]})(props);
+  5 | };
+
+
+
+Import trace:
+  Server Component:
+    ./node_modules/react-icons/io/index.js
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.442] Server  ERROR    ⨯ ./node_modules/react-icons/io/index.js:2:15
+Module not found: Can't resolve '../lib'
+  1 | // THIS FILE IS AUTO GENERATED
+> 2 | var GenIcon = require('../lib').GenIcon
+    |               ^^^^^^^^^^^^^^^^^
+  3 | module.exports.IoIosAddCircleOutline = function IoIosAddCircleOutline (props) {
+  4 |   return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 512 512"},"child":[{"tag":"path","attr":{"d":"M346.5 240H272v-74.5c0-8.8-7.2-16-16-16s-16 7.2-16 16V240h-74.5c-8.8 0-16 6-16 16s7.5 16 16 16H240v74.5c0 9.5 7 16 16 16s16-7.2 16-16V272h74.5c8.8 0 16-7.2 16-16s-7.2-16-16-16z"},"child":[]},{"tag":"path","attr":{"d":"M256 76c48.1 0 93.3 18.7 127.3 52.7S436 207.9 436 256s-18.7 93.3-52.7 127.3S304.1 436 256 436c-48.1 0-93.3-18.7-127.3-52.7S76 304.1 76 256s18.7-93.3 52.7-127.3S207.9 76 256 76m0-28C141.1 48 48 141.1 48 256s93.1 208 208 208 208-93.1 208-208S370.9 48 256 48z"},"child":[]}]})(props);
+  5 | };
+
+
+
+Import trace:
+  Server Component:
+    ./node_modules/react-icons/io/index.js
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.455] Server  LOG      ✓ Compiled in 44ms
+[00:15:46.481] Browser ERROR   ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:46.481] Browser ERROR   ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:46.481] Browser ERROR   ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:46.481] Browser ERROR   ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:46.481] Browser ERROR   ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:46.481] Browser ERROR   ./node_modules/react-icons/io/index.js:1315:99
+Parsing ecmascript source code failed
+  1313 | };
+  1314 | module.exports.IoMdBusiness = function IoMdBusiness (props) {
+> 1315 |   return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 512 512"},"child":[{"tag":"path","attr":{"d":"M261 149.3V64H48v384h416V149.3H261zm-127.8 256H90.6v-42.7h42.6v42.7zm0-85.3H90.6v-42.7h42.6V320zm0-85.3H90.6V192h42.6v42.7zm0-85.4H90.6v-42.7h42.6v42.7zm85.2 256h-42.6v-42.7h42.6v42.7zm0-85.3h-42.6v-42.7h42.6V320zm0-85.3h-42.6V192h42.6v42.7zm0-85.4h-42.6v-42.7h42.6v42.7zm203 256H261v-42.7h42.6V320H261v-42.7h42.6v-42.7
+       |                                                                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./node_modules/react-icons/io/index.js
+    ./components/header.tsx
+    ./app/layout.tsx
+[00:15:46.913] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.914] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.914] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.914] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.915] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.915] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.915] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.916] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.916] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.916] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.916] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.917] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.917] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:46.917] Server  ERROR    ⨯ ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:47.402] Browser ERROR   ./node_modules/react-icons/io/index.js:2:15
+Module not found: Can't resolve '../lib'
+  1 | // THIS FILE IS AUTO GENERATED
+> 2 | var GenIcon = require('../lib').GenIcon
+    |               ^^^^^^^^^^^^^^^^^
+  3 | module.exports.IoIosAddCircleOutline = function IoIosAddCircleOutline (props) {
+  4 |   return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 512 512"},"child":[{"tag":"path","attr":{"d":"M346.5 240H272v-74.5c0-8.8-7.2-16-16-16s-16 7.2-16 16V240h-74.5c-8.8 0-16 6-16 16s7.5 16 16 16H240v74.5c0 9.5 7 16 16 16s16-7.2 16-16V272h74.5c8.8 0 16-7.2 16-16s-7.2-16-16-16z"},"child":[]},{"tag":"path","attr":{"d":"M256 76c48.1 0 93.3 18.7 127.3 52.7S436 207.9 436 256s-18.7 93.3-52.7 127.3S304.1 436 256 436c-48.1 0-93.3-18.7-127.3-52.7S76 304.1 76 256s18.7-93.3 52.7-127.3S207.9 76 256 76m0-28C141.1 48 48 141.1 48 256s93.1 208 208 208 208-93.1 208-208S370.9 48 256 48z"},"child":[]}]})(props);
+  5 | };
+
+Import trace:
+  Server Component:
+    ./node_modules/react-icons/io/index.js
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:47.402] Browser ERROR   ./node_modules/react-icons/io/index.js:2:15
+Module not found: Can't resolve '../lib'
+  1 | // THIS FILE IS AUTO GENERATED
+> 2 | var GenIcon = require('../lib').GenIcon
+    |               ^^^^^^^^^^^^^^^^^
+  3 | module.exports.IoIosAddCircleOutline = function IoIosAddCircleOutline (props) {
+  4 |   return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 512 512"},"child":[{"tag":"path","attr":{"d":"M346.5 240H272v-74.5c0-8.8-7.2-16-16-16s-16 7.2-16 16V240h-74.5c-8.8 0-16 6-16 16s7.5 16 16 16H240v74.5c0 9.5 7 16 16 16s16-7.2 16-16V272h74.5c8.8 0 16-7.2 16-16s-7.2-16-16-16z"},"child":[]},{"tag":"path","attr":{"d":"M256 76c48.1 0 93.3 18.7 127.3 52.7S436 207.9 436 256s-18.7 93.3-52.7 127.3S304.1 436 256 436c-48.1 0-93.3-18.7-127.3-52.7S76 304.1 76 256s18.7-93.3 52.7-127.3S207.9 76 256 76m0-28C141.1 48 48 141.1 48 256s93.1 208 208 208 208-93.1 208-208S370.9 48 256 48z"},"child":[]}]})(props);
+  5 | };
+
+Import trace:
+  Server Component:
+    ./node_modules/react-icons/io/index.js
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:47.402] Browser ERROR   ./node_modules/react-icons/io/index.js:2:15
+Module not found: Can't resolve '../lib'
+  1 | // THIS FILE IS AUTO GENERATED
+> 2 | var GenIcon = require('../lib').GenIcon
+    |               ^^^^^^^^^^^^^^^^^
+  3 | module.exports.IoIosAddCircleOutline = function IoIosAddCircleOutline (props) {
+  4 |   return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 512 512"},"child":[{"tag":"path","attr":{"d":"M346.5 240H272v-74.5c0-8.8-7.2-16-16-16s-16 7.2-16 16V240h-74.5c-8.8 0-16 6-16 16s7.5 16 16 16H240v74.5c0 9.5 7 16 16 16s16-7.2 16-16V272h74.5c8.8 0 16-7.2 16-16s-7.2-16-16-16z"},"child":[]},{"tag":"path","attr":{"d":"M256 76c48.1 0 93.3 18.7 127.3 52.7S436 207.9 436 256s-18.7 93.3-52.7 127.3S304.1 436 256 436c-48.1 0-93.3-18.7-127.3-52.7S76 304.1 76 256s18.7-93.3 52.7-127.3S207.9 76 256 76m0-28C141.1 48 48 141.1 48 256s93.1 208 208 208 208-93.1 208-208S370.9 48 256 48z"},"child":[]}]})(props);
+  5 | };
+
+Import trace:
+  Server Component:
+    ./node_modules/react-icons/io/index.js
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:47.402] Browser ERROR   ./components/header.tsx:5:1
+Module not found: Can't resolve 'react-icons/io'
+  3 | import Link from "next/link";
+  4 | import { ChevronDown, Phone } from "lucide-react";
+> 5 | import { IoIosCall } from "react-icons/io";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const Header = () => {
+  8 |   return (
+
+Import trace:
+  Server Component:
+    ./components/header.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:47.576] Server  LOG      ✓ Compiled in 101ms
