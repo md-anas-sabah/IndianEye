@@ -77,7 +77,7 @@ const Header = () => {
 
         {/* Desktop Contact Button */}
         <Link
-          href="/contact"
+          href="/contact-us"
           className="hidden lg:flex bg-[#EA580C] font-(family-name:--font-albert-sans) text-white text-[19px] font-normal leading-[100%] tracking-[0%] align-middle rounded-4xl px-5 py-2.5 no-underline items-center gap-1.5 hover:bg-[#dc4d07] transition-colors"
         >
           <IoIosCall />
