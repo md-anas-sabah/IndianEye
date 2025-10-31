@@ -18,7 +18,7 @@ const Header = () => {
   const isActive = (path: string) => pathname === path;
 
   return (
-    <header className="w-full h-20 flex items-center justify-center border-none bg-[#181818] px-4 md:px-6">
+    <header className="w-full h-20 flex items-center justify-center border-none bg-[#131313] px-4 md:px-6">
       <div className="w-full max-w-[1100px] mx-auto flex items-center justify-between">
         <Link href="/">
           <Image
